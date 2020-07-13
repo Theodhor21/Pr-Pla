@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dedaabdc-8d8c-411b-94b1-560c89831c6f" name="Default Changelist" comment="added manuelle eingabe template">
+      <change afterPath="$PROJECT_DIR$/src/algorithm_tens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitlabProjectsProjectSettings">
+    <option name="projectIdMap">
+      <map>
+        <entry key="996029176" value="5680" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SyPb4NpqOvzLmlWm0bxw2LzFcR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../main_workspace" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yanni\OneDrive\Informatik\Python\PyCharmProjects\swe_d2\dist\main" />
+      <recent name="D:\OneDrive\Informatik\Python\PyCharmProjects\swe_d2\src\resources\images" />
+      <recent name="C:\Users\yanni\OneDrive\Informatik\Python\PyCharmProjects\swe_d2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yanni\OneDrive\Informatik\Python\PyCharmProjects\swe_d2" />
+      <recent name="D:\OneDrive\Informatik\Python\PyCharmProjects\swe_d2\src\resources\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="swe_d2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dedaabdc-8d8c-411b-94b1-560c89831c6f" name="Default Changelist" comment="" />
+      <created>1572532930196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572532930196</updated>
+      <workItem from="1572532931346" duration="560000" />
+      <workItem from="1572533505236" duration="19000" />
+      <workItem from="1572538381628" duration="62000" />
+      <workItem from="1572538462829" duration="673000" />
+      <workItem from="1572690514069" duration="51000" />
+      <workItem from="1572696721513" duration="3628000" />
+      <workItem from="1573111661091" duration="728000" />
+      <workItem from="1573121712318" duration="496000" />
+      <workItem from="1573127909292" duration="36000" />
+      <workItem from="1573129258898" duration="508000" />
+      <workItem from="1573199563757" duration="1347000" />
+      <workItem from="1573488336317" duration="900000" />
+      <workItem from="1573684956770" duration="677000" />
+      <workItem from="1573766319256" duration="754000" />
+      <workItem from="1573906164308" duration="6267000" />
+      <workItem from="1574254515702" duration="81000" />
+      <workItem from="1574320144835" duration="49000" />
+      <workItem from="1574338256508" duration="1522000" />
+      <workItem from="1574891122508" duration="1180000" />
+      <workItem from="1574936501978" duration="8998000" />
+      <workItem from="1574960247602" duration="8191000" />
+      <workItem from="1575043841875" duration="22387000" />
+      <workItem from="1575138822078" duration="628000" />
+      <workItem from="1575187402753" duration="1311000" />
+      <workItem from="1575203555865" duration="697000" />
+      <workItem from="1575388473294" duration="2426000" />
+      <workItem from="1575442588167" duration="7076000" />
+      <workItem from="1575542984042" duration="11407000" />
+      <workItem from="1575574437096" duration="5871000" />
+      <workItem from="1575623484197" duration="959000" />
+      <workItem from="1575624462353" duration="64000" />
+      <workItem from="1575624539872" duration="13219000" />
+      <workItem from="1575737341590" duration="3132000" />
+      <workItem from="1575824180684" duration="3866000" />
+      <workItem from="1575840951239" duration="7600000" />
+      <workItem from="1575849457999" duration="135000" />
+      <workItem from="1575895647115" duration="6034000" />
+      <workItem from="1575923249655" duration="6521000" />
+      <workItem from="1575982519104" duration="13285000" />
+      <workItem from="1576050952238" duration="8142000" />
+      <workItem from="1576065187562" duration="5735000" />
+      <workItem from="1576073829137" duration="5000" />
+      <workItem from="1576135276469" duration="2288000" />
+      <workItem from="1576138218925" duration="8544000" />
+      <workItem from="1576151795865" duration="368000" />
+      <workItem from="1576152544148" duration="3711000" />
+      <workItem from="1576168714892" duration="6706000" />
+      <workItem from="1576220897901" duration="10256000" />
+      <workItem from="1576238189829" duration="6377000" />
+      <workItem from="1576245160701" duration="7363000" />
+      <workItem from="1576258516030" duration="11037000" />
+      <workItem from="1576313461284" duration="4514000" />
+      <workItem from="1576333042531" duration="172000" />
+      <workItem from="1576333584615" duration="247000" />
+      <workItem from="1576334206249" duration="15816000" />
+      <workItem from="1576350983905" duration="1626000" />
+      <workItem from="1576361705824" duration="32000" />
+      <workItem from="1576437750781" duration="3444000" />
+      <workItem from="1576509800115" duration="5988000" />
+      <workItem from="1576575559598" duration="636000" />
+      <workItem from="1576583509497" duration="1062000" />
+      <workItem from="1576680581042" duration="96000" />
+    </task>
+    <task id="LOCAL-00006" summary="*main.py added funktion funktion">
+      <created>1574338461938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574338461938</updated>
+    </task>
+    <task id="LOCAL-00007" summary="*main.py changed funktion funktion">
+      <created>1574338847594</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574338847594</updated>
+    </task>
+    <task id="LOCAL-00008" summary="*main.py changed funktion funktion">
+      <created>1574339488934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574339488934</updated>
+    </task>
+    <task id="LOCAL-00009" summary="+ io_handler.py - import and export csv&#10;+ yes_no_dialog.py -  dialog with yes and no option&#10;+ overview.py - placeholder for the overview">
+      <created>1574892244068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574892244068</updated>
+    </task>
+    <task id="LOCAL-00010" summary="+ aufsichtspersonen.csv&#10;+ preufungen.csv&#10;+ raeume.csv">
+      <created>1574944608263</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574944608263</updated>
+    </task>
+    <task id="LOCAL-00011" summary="* aufsichtspersonen.csv&#10;* preufungen.csv&#10;* raeume.csv&#10;* io_handler.py - added import&#10;* main.py">
+      <created>1574947276276</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574947276276</updated>
+    </task>
+    <task id="LOCAL-00012" summary="+ io.py - added import and export window">
+      <created>1574951075692</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574951075692</updated>
+    </task>
+    <task id="LOCAL-00013" summary="* io.py - added comments">
+      <created>1574951299187</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574951299187</updated>
+    </task>
+    <task id="LOCAL-00014" summary="* io.py">
+      <created>1574951595001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574951595001</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Revert &quot;* io.py&quot;&#10;&#10;This reverts commit 5a588cc2">
+      <created>1574951674135</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574951674135</updated>
+    </task>
+    <task id="LOCAL-00016" summary="* io.py">
+      <created>1574951742125</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574951742125</updated>
+    </task>
+    <task id="LOCAL-00017" summary="+ data_handler.py - handles all data and holds the 3 arrays&#10;+ yes_dialog.py - has only yes option&#10;* yes_no_dialog.py - improved functionality&#10;* io.py - improved">
+      <created>1574966819416</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574966819416</updated>
+    </task>
+    <task id="LOCAL-00018" summary="* io_handler.py - added export&#10;* data_handler.py - added export&#10;* io.py - open: added default filename">
+      <created>1574968219283</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574968219283</updated>
+    </task>
+    <task id="LOCAL-00019" summary="* data_handler.py - added overwrite">
+      <created>1574968432793</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574968432793</updated>
+    </task>
+    <task id="LOCAL-00020" summary="+ build - for build&#10;+ dist - finished build&#10;* data_handler.py - add empty()&#10;+ clickable_label.py - new label type&#10;* main_window.py - changed structure, added CentralWidget&#10;+ overview.py - finished EmptyOverview.class&#10;* gui.py - changed structure&#10;* main.py&#10;+ main.spec - for build">
+      <created>1575067710912</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575067710912</updated>
+    </task>
+    <task id="LOCAL-00021" summary="* data_handler.py - added update listener&#10;+ dataobject_container - container for overview dataobject&#10;* main_window.py - added data update handling&#10;* overview.py - added grid to Overview">
+      <created>1575455507027</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575455507027</updated>
+    </task>
+    <task id="LOCAL-00022" summary="* datatypes.py - dauer ist allgemein&#10;* dataobject_container.py&#10;* overview.py - improved&#10;* gui.py - new size&#10;* raeume.csv - new data">
+      <created>1575623749833</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575623749833</updated>
+    </task>
+    <task id="LOCAL-00023" summary="* algorithm.py - improved&#10;* main.py - test-algorithm&#10;* test\files - new test_files">
+      <created>1575626954930</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1575626954930</updated>
+    </task>
+    <task id="LOCAL-00024" summary="* algorithm.py - improved">
+      <created>1575630658700</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1575630658700</updated>
+    </task>
+    <task id="LOCAL-00025" summary="* algorithm.py - improved">
+      <created>1575638125179</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1575638125179</updated>
+    </task>
+    <task id="LOCAL-00026" summary="* datatypes.py - added timestamp_to_string&#10;* dataobject_widget.py - added detailed_view&#10;* overview.py - pass parent&#10;+ detailed_view.py - new">
+      <created>1575905573345</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1575905573346</updated>
+    </task>
+    <task id="LOCAL-00027" summary="+ resources - for images&#10;&#10;improved detail_view and added context menu&#10;    * dataobjects_widgets.py&#10;    * detailed_view.py&#10;    * main_window.py&#10;    * overview.py&#10;    * gui.py - get window resolution">
+      <created>1575929556382</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1575929556382</updated>
+    </task>
+    <task id="LOCAL-00028" summary="--added day view:--&#10;    * overview.py - added day_view&#10;&#10;* io_handler.py - solved aufsichtsperson name bug&#10;* dataobject_widgets.py - improved texts&#10;* detailed_view.py">
+      <created>1575989703462</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1575989703462</updated>
+    </task>
+    <task id="LOCAL-00029" summary="* dataobject_widgets.py - added menu icons&#10;* detailed_view.py - fixed bug&#10;+ trash-solig.svg">
+      <created>1575990808592</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1575990808592</updated>
+    </task>
+    <task id="LOCAL-00030" summary="--zeitraum wechsel:--&#10;    + images&#10;    * overview.py&#10;&#10;--fixed bug:--&#10;    * dataobject_widgets.py&#10;    * detailed_view.py">
+      <created>1575993594890</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1575993594891</updated>
+    </task>
+    <task id="LOCAL-00031" summary="removed pyqt">
+      <created>1576065826137</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1576065826137</updated>
+    </task>
+    <task id="LOCAL-00032" summary="* main.py - fixed main - sorry :(">
+      <created>1576066395494</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1576066395494</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added manuelle eingabe template">
+      <created>1576071262524</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1576071262524</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed issue: DetailedView stays open&#10;    * detailed_view.py&#10;    * main_window.py">
+      <created>1576137463275</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1576137463275</updated>
+    </task>
+    <task id="LOCAL-00035" summary="keep overview position (for example after delete)&#10;    * main_window.py&#10;    * overview.py">
+      <created>1576139191689</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1576139191690</updated>
+    </task>
+    <task id="LOCAL-00036" summary="* main_window.py - keep last overview tab&#10;* manuelle_eingabe.py - abbrechen to correct overview">
+      <created>1576143720251</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1576143720251</updated>
+    </task>
+    <task id="LOCAL-00037" summary="für Jan &lt;3">
+      <created>1576153632073</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1576153632073</updated>
+    </task>
+    <task id="LOCAL-00038" summary="improved menu design&#10;    * menu.py&#10;    &#10;* detailed_view.py">
+      <created>1576175432721</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1576175432721</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fixed icon bug&#10;    * chevron-down-solid.svg&#10;    * chevron-up-solid.svg">
+      <created>1576176069687</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1576176069687</updated>
+    </task>
+    <task id="LOCAL-00040" summary="imrpoved menü design and functions&#10;    * menu.py&#10;&#10;added manuelle eingabe references in EmptyOverview&#10;    * gui.py&#10;    * main_window.py&#10;&#10;first draft &quot;manuelle eingabe raum&quot;&#10;    * manuelle_eingabe.py&#10;    * line_edit.py">
+      <created>1576239521199</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1576239521199</updated>
+    </task>
+    <task id="LOCAL-00041" summary="bug fix&#10;    * dataobject_widgets.py&#10;    * menu.py&#10;    * overview.py&#10;    * gui.py">
+      <created>1576242300308</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1576242300308</updated>
+    </task>
+    <task id="LOCAL-00042" summary="algorithm to function&#10;    * algorithm.py&#10;    * menu.py">
+      <created>1576242776024</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1576242776024</updated>
+    </task>
+    <task id="LOCAL-00043" summary="detailed view bug fix - wehe du findest noch bugs Jan! :D&#10;    * dataobject_widgets.py&#10;    * detailed_view.py&#10;    * overview.py">
+      <created>1576247208783</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1576247208783</updated>
+    </task>
+    <task id="LOCAL-00044" summary="manuelle eingabe ready&#10;    * manuelle_eingabe.py&#10;    * line_edit.py">
+      <created>1576257532160</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1576257532160</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added berechnet overview&#10;    + save-solid.svg&#10;    * data_handler.py&#10;    * datatypes.py&#10;    * dataobject_widgets.py&#10;    * detailed_view.py&#10;    * main_window.py&#10;    * overview.py">
+      <created>1576265601882</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1576265601882</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added bearbeiten&#10;    * data_handler.py&#10;    * datatypes.py&#10;    * dataobject_widgets.py&#10;    * line_edit.py&#10;    * main_window.py&#10;    * manuelle_eingabe.py&#10;    * overview.py">
+      <created>1576268290107</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1576268290107</updated>
+    </task>
+    <task id="LOCAL-00047" summary="* menu.py - animated menu dropdowns">
+      <created>1576337701139</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1576337701139</updated>
+    </task>
+    <task id="LOCAL-00048" summary="* menu.py - fixed size">
+      <created>1576338043393</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1576338043393</updated>
+    </task>
+    <task id="LOCAL-00049" summary="* menu.py - icon turns \*-*/">
+      <created>1576341472612</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1576341472612</updated>
+    </task>
+    <task id="LOCAL-00050" summary="* menu.py - added comments&#10;* manuelle_eingabe.py - better design&#10;* algorithm.py - dialog text">
+      <created>1576348480802</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1576348480802</updated>
+    </task>
+    <task id="LOCAL-00051" summary="improved menubar design&#10;    + bars-solid.svg&#10;    + bars-solid_bigger.png&#10;    * main_window.py&#10;    * menu.py&#10;    * gui.py&#10;&#10;improved design of manuelle_eingabe&#10;    * manuelle_eingabe.py">
+      <created>1576352424093</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1576352424093</updated>
+    </task>
+    <task id="LOCAL-00052" summary="improved fab button and opens overview_pruefungsplan after algo&#10;    - save-solid.svg&#10;    + save-solid-white.svg&#10;    + save-solid-blue.svg&#10;    + fab_button.py&#10;    * overview.py&#10;    * algorithm.py">
+      <created>1576441042347</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1576441042348</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fixed doubled overview bug&#10;    * data_handler.py&#10;    * main_window.py&#10;&#10;* overview.py - colors are cached">
+      <created>1576565249743</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1576565249743</updated>
+    </task>
+    <task id="LOCAL-00054" summary="newest build&#10;    * build&#10;    * dist&#10;&#10;moved resources folder&#10;    * dataobject_widgets.py&#10;    * manuelle_eingabe.py&#10;    * menu.py&#10;    * overview.py">
+      <created>1576567212485</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1576567212485</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+        <option value="2" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="--zeitraum wechsel:--&#10;    + images&#10;    * overview.py&#10;&#10;--fixed bug:--&#10;    * dataobject_widgets.py&#10;    * detailed_view.py" />
+    <MESSAGE value="removed pyqt" />
+    <MESSAGE value="* main.py - fixed main - sorry :(" />
+    <MESSAGE value="added manuelle eingabe template" />
+    <MESSAGE value="fixed issue: DetailedView stays open&#10;    * detailed_view.py&#10;    * main_window.py" />
+    <MESSAGE value="keep overview position (for example after delete)&#10;    * main_window.py&#10;    * overview.py" />
+    <MESSAGE value="* main_window.py - keep last overview tab&#10;* manuelle_eingabe.py - abbrechen to correct overview" />
+    <MESSAGE value="für Jan &lt;3" />
+    <MESSAGE value="improved menu design&#10;    * menu.py&#10;    &#10;* detailed_view.py" />
+    <MESSAGE value="fixed icon bug&#10;    * chevron-down-solid.svg&#10;    * chevron-up-solid.svg" />
+    <MESSAGE value="imrpoved menü design and functions&#10;    * menu.py&#10;&#10;added manuelle eingabe references in EmptyOverview&#10;    * gui.py&#10;    * main_window.py&#10;&#10;first draft &quot;manuelle eingabe raum&quot;&#10;    * manuelle_eingabe.py&#10;    * line_edit.py" />
+    <MESSAGE value="bug fix&#10;    * dataobject_widgets.py&#10;    * menu.py&#10;    * overview.py&#10;    * gui.py" />
+    <MESSAGE value="algorithm to function&#10;    * algorithm.py&#10;    * menu.py" />
+    <MESSAGE value="detailed view bug fix - wehe du findest noch bugs Jan! :D&#10;    * dataobject_widgets.py&#10;    * detailed_view.py&#10;    * overview.py" />
+    <MESSAGE value="manuelle eingabe ready&#10;    * manuelle_eingabe.py&#10;    * line_edit.py" />
+    <MESSAGE value="added berechnet overview&#10;    + save-solid.svg&#10;    * data_handler.py&#10;    * datatypes.py&#10;    * dataobject_widgets.py&#10;    * detailed_view.py&#10;    * main_window.py&#10;    * overview.py" />
+    <MESSAGE value="added bearbeiten&#10;    * data_handler.py&#10;    * datatypes.py&#10;    * dataobject_widgets.py&#10;    * line_edit.py&#10;    * main_window.py&#10;    * manuelle_eingabe.py&#10;    * overview.py" />
+    <MESSAGE value="* menu.py - animated menu dropdowns" />
+    <MESSAGE value="* menu.py - fixed size" />
+    <MESSAGE value="* menu.py - icon turns \*-*/" />
+    <MESSAGE value="* menu.py - added comments&#10;* manuelle_eingabe.py - better design&#10;* algorithm.py - dialog text" />
+    <MESSAGE value="improved menubar design&#10;    + bars-solid.svg&#10;    + bars-solid_bigger.png&#10;    * main_window.py&#10;    * menu.py&#10;    * gui.py&#10;&#10;improved design of manuelle_eingabe&#10;    * manuelle_eingabe.py" />
+    <MESSAGE value="improved fab button and opens overview_pruefungsplan after algo&#10;    - save-solid.svg&#10;    + save-solid-white.svg&#10;    + save-solid-blue.svg&#10;    + fab_button.py&#10;    * overview.py&#10;    * algorithm.py" />
+    <MESSAGE value="fixed doubled overview bug&#10;    * data_handler.py&#10;    * main_window.py&#10;&#10;* overview.py - colors are cached" />
+    <MESSAGE value="newest build&#10;    * build&#10;    * dist&#10;&#10;moved resources folder&#10;    * dataobject_widgets.py&#10;    * manuelle_eingabe.py&#10;    * menu.py&#10;    * overview.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="newest build&#10;    * build&#10;    * dist&#10;&#10;moved resources folder&#10;    * dataobject_widgets.py&#10;    * manuelle_eingabe.py&#10;    * menu.py&#10;    * overview.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data/data_handler.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/widgets/menu.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/swe_d2$main.coverage" NAME="main Coverage Results" MODIFIED="1576566759797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/swe_d2$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1573129358540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
